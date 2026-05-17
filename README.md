@@ -1,6 +1,6 @@
 # Crypto Wallet for Nextcloud
 
-> Secure storage of cryptocurrency addresses and private keys - inside your own Nextcloud.
+<img alt="nextcloud-crypto-wallet" src="https://github.com/user-attachments/assets/321e708d-676a-46ee-97b9-438af5017f2a" />
 
 **Crypto Wallet** lets you manage multiple wallets and cryptocurrency addresses directly inside Nextcloud. Private keys are encrypted client-side with AES-256-GCM before being stored, so only you can access them. Live price data, password-strength feedback, and per-wallet locking are included out of the box.
 
